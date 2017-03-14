@@ -96,8 +96,6 @@ ENV/
 .ropeproject
 
 .idea/
-hello/.buildozer/android/app/_applibs/
-hello/.buildozer/applibs/
 gyy.py
 Would skip repository hello/.buildozer/android/platform/python-for-android
 hello/.buildozer/
